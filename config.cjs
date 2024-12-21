@@ -23,5 +23,5 @@ module.exports = {
   "AUTO_RECORDING": true,
   "AUTO_NEWS": true,
   "OWNER_REACT": true,
-  "EMOJI": "🎉"
+  "EMOJI": "🎉/🎊"
 };
